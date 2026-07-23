@@ -1,4 +1,4 @@
-# 🎵 SraAdaLY — Music Connects Us
+# 🎵 NoteFlow — Music Connects Us
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 **An interactive AI-powered Music Discovery, Taste Profiling, and Collaborative Sharing Platform.**  
 Explore custom-synthesized backing tracks, get personalized music suggestions via Gemini, and share music with friends.
 
-### 🌐 [▶ Open Live Music App](https://sraadaly-966730172656.asia-southeast1.run.app/) &nbsp;&nbsp; [📂 View Code](https://github.com/adarsh0718/SraAdaLY)
+### 🌐 [▶ Open Live Music App](https://noteflow-966730172656.asia-southeast1.run.app/) &nbsp;&nbsp; [📂 View Code](https://github.com/adarsh0718/NoteFlow)
 
 </div>
 
@@ -20,7 +20,7 @@ Explore custom-synthesized backing tracks, get personalized music suggestions vi
 
 ## 🎬 Overview
 
-**SraAdaLY** is a modern music exploration web application designed to connect users through interactive soundscapes and AI-driven recommendations. The name represents a space where music meets intelligence and collaboration.
+**NoteFlow** is a modern music exploration web application designed to connect users through interactive soundscapes and AI-driven recommendations. The name represents a space where music meets intelligence and collaboration.
 
 The platform offers a fully integrated, client-side dynamic audio environment where users can play interactive quiz games to identify their musical archetypes, consult an **AI Music Style Advisor**, listen to real-time generated backing tracks, and collaborate by sharing playlists.
 
@@ -28,10 +28,10 @@ The platform offers a fully integrated, client-side dynamic audio environment wh
 
 ## 🚀 Key Features
 
-### 🧠 1. SraAdaLY Taste AI (Google Gemini Integration)
+### 🧠 1. NoteFlow Taste AI (Google Gemini Integration)
 *   **AI Music Advisor**: Interfaces with the `gemini-1.5-flash` model to analyze your profile and music habits.
 *   **Personalized Roadmaps**: Generates custom, interactive music discovery roadmaps outlining new genres, instruments, and artists tailored to your unique taste.
-*   **Contextual Chat**: Ask the SraAdaLY AI advisor specific musical inquiries and get expert suggestions.
+*   **Contextual Chat**: Ask the NoteFlow AI advisor specific musical inquiries and get expert suggestions.
 
 ### 🎮 2. Interactive Music Taste Quiz & Profiler
 *   A custom questionnaire designed to gauge user engagement (e.g., passive background listening vs. active lyric analysis).
@@ -67,10 +67,10 @@ The platform offers a fully integrated, client-side dynamic audio environment wh
 ## 📂 File Architecture (Vite Build)
 
 ```
-SraAdaLY/
+NoteFlow/
 │
 ├── public/                  # Static assets and logo
-│   └── sraadaly_logo.jpg
+│   └── noteflow_logo.jpg
 │
 ├── src/                     # React application source
 │   ├── components/          # Dashboard panels, Quiz, AI Advisor, Audio Player
@@ -91,8 +91,8 @@ SraAdaLY/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/adarsh0718/SraAdaLY.git
-cd SraAdaLY
+git clone https://github.com/adarsh0718/NoteFlow.git
+cd NoteFlow
 ```
 
 ### 2. Install dependencies
