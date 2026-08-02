@@ -3,14 +3,14 @@ import { Song, Playlist, QuizQuestion } from "./types";
 import echoesCoreImg from "./assets/images/echoes_album_art_1783004468657.jpg";
 import lofiStudyImg from "./assets/images/lofi_study_cover_1783004483065.jpg";
 import cyberGrooveImg from "./assets/images/cyber_groove_cover_1783004494517.jpg";
-import sraadalyLogoImg from "./assets/images/sraadaly_logo_1783036699305.jpg";
+import noteflowLogoImg from "./assets/images/noteflow_logo.jpg";
 
 // Keep track of our actual generated images to use for playlist and song artwork
 export const ASSETS = {
   echoesCore: echoesCoreImg,
   lofiStudy: lofiStudyImg,
   cyberGroove: cyberGrooveImg,
-  sraadalyLogo: sraadalyLogoImg
+  sraadalyLogo: noteflowLogoImg
 };
 
 export const INITIAL_SONGS: Song[] = [
