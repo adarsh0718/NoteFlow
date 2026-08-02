@@ -12,7 +12,7 @@
 **An interactive AI-powered Music Discovery, Taste Profiling, and Collaborative Sharing Platform.**  
 Explore custom-synthesized backing tracks, get personalized music suggestions via Gemini, and share music with friends.
 
-### 🌐 [▶ Open Live Music App](https://noteflow-966730172656.asia-southeast1.run.app/) &nbsp;&nbsp; [📂 View Code](https://github.com/adarsh0718/NoteFlow)
+### 🌐 [▶ Open Live Music App (NoteFlow)](https://sraadaly-966730172656.asia-southeast1.run.app/) &nbsp;&nbsp; [📂 View Code](https://github.com/adarsh0718/NoteFlow)
 
 </div>
 
